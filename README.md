@@ -269,6 +269,10 @@ Reset codes are sent with PHP's `mail()`, which needs a mail server configured i
 Built by a team of 5 for a web programming course at National University – Laguna (2025).
 
 - **Kyle Justine Paras**: Team lead · Full-stack developer · UI design
+- Faith Barba
+- Charles De Leon
+- Christian De Ocampo
+- Ellysa Del Prado
 
 ## License
 
